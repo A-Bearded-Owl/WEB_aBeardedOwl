@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/devabear/public_html/abeardedowl
-    - /bin/cp -R /home/devabear/git_repos/abeardedowl/DEV $DEPLOYPATH
+    - export DEPLOYPATH=/home/devabear/public_html/aBeardedOwl
+    - /bin/cp -R /home/devabear/git_repos/aBeardedOwl/DEV $DEPLOYPATH
